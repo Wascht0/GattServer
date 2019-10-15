@@ -10,7 +10,7 @@ A simple Gatt-Server for the Raspberry Pi Bluetooth writte in C# (.Net Framework
 ### Mono
 In order to run a .Net-Framwork program on a Linux system, a corresponding implementation of the .Net Framework for the host system is required.
 
-[Mono](https://www.mono-project.com/) 
+[Mono Projekt](https://www.mono-project.com/) 
 
 ```
 sudo apt-get install mono-complete
@@ -42,5 +42,7 @@ Additional libraries are required for this program. These are located in the fol
 ## Infos
 
 [Bluez](http://bluez.org)
+
 [DBus Bluez-API](https://git.kernel.org/pub/scm/bluetooth/bluez.git/tree/doc)
+
 [DBus .Net Libary](https://github.com/mono/dbus-sharp)
